@@ -5,7 +5,7 @@ This is a simple React application that demonstrates the use of a **custom hook*
 ## 🔧 Features
 
 - Displays a count value
-- Increment the count by a step (default is 2)
+- Increment the count by a step (default is 1)
 - Decrement the count
 - Reset the count to initial value
 - Clean UI styled using basic CSS
